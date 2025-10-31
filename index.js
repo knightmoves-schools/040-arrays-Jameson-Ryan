@@ -1,4 +1,5 @@
-let iceCreamFlavors = [chocolate, vanilla, twist];
+let iceCreamFlavors = ['chocolate', 'vanilla', 'twist'];
 
 document.getElementById("result").innerHTML = iceCreamFlavors;
+
 
